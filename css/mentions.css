@@ -1,0 +1,57 @@
+.container-confidentialite {
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.container-confidentialite h1 {
+    text-align: center;
+    font-size: 2.2em;
+    color: #002244;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.container-confidentialite h2 {
+    font-size: 1.8em;
+    color: #003366;
+    border-bottom: 2px solid #0077cc;
+    padding-bottom: 5px;
+    margin-top: 30px;
+}
+
+.container-confidentialite h3 {
+    font-size: 1.4em;
+    color: #0055a5;
+    margin-top: 25px;
+}
+
+.container-confidentialite p, .container-confidentialite ul {
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+.container-confidentialite strong {
+    color: #0055a5;
+}
+
+.container-confidentialite p, .container-confidentialite ul {
+    background: #f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.container-confidentialite a {
+    color: #0077cc;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.container-confidentialite a:hover {
+    text-decoration: underline;
+}
